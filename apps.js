@@ -26,4 +26,4 @@ let Higiene = ["cepillo de dientes", "pasta de dientes", "papel higiénico"];
 console.log("Lista de Súper");
 logItems(listaDeSuper);
 console.log("Higiéne");
-logItems(listadelimpieza);
+logItems(Higiene);
